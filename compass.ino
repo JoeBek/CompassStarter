@@ -1,5 +1,9 @@
 #include <QMC5883LCompass.h>
 
+// install library to arduino library folder
+
+// this currently works in arduino but VScode the dependency is annoying
+
 QMC5883LCompass compass;
 
 void setup() {
